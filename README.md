@@ -18,7 +18,9 @@ python3 dna.py database.csv sequence.txt
 The database should be a CSV file with the following format:
 
 name,AGATC,AATG,TATC
+
 Alice,2,8,3
+
 Bob,4,1,5
 
 ### Output
